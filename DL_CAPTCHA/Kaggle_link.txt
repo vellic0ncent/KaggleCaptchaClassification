@@ -1,0 +1,3 @@
+https://www.kaggle.com/c/mds-misis-dl-captcha
+
+https://www.kaggle.com/verapushkareva/letters-recognition-simple-nn
